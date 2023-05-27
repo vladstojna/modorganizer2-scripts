@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=MO2 (Skyrim SE)
+Comment=Launch Mod Organizer 2 for Skyrim Special Edition (standalone)
+Exec=modorganizer2-standalone skyrimspecialedition
+Icon=mo_icon
+Terminal=false
+Type=Application
+Categories=Game;Modding
